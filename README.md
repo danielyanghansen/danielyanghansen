@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🎓2nd year Computer Science at NTNU, Trondheim
+- 💼Former summer intern at:
+  - Norsk Helsenett
+- 🚀Technologies I've worked with:
+  - Python
+  - JavaScript and Typescript: NodeJS, React, ExpressJS
+  - Java: SpringBoot
+  - .NET: C#, F#
+  - Linux/Unix: C
 <!--
 **danielyanghansen/danielyanghansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
