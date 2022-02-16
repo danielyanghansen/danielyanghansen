@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Daniel Yang Hansen (he/him): 
 - 🎓2nd year Computer Science at NTNU, Trondheim
 - 💼Former summer intern at:
   - Norsk Helsenett
