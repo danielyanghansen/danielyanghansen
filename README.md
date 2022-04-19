@@ -3,13 +3,8 @@ I am Daniel Yang Hansen (he/him):
 - 🎓2nd year Computer Science at NTNU, Trondheim
 - 💼Former summer intern at:
   - Norsk Helsenett
-- 🚀Technologies I've worked with:
-  - Python
-  - JavaScript and Typescript: NodeJS, React, ExpressJS
-  - Java: SpringBoot
-  - .NET: C#, F#
-  - Linux/Unix: C
 
+ ## 🚀 Technologies I've worked with:
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />](https://Www.wikipedia.com)
 [<img align="left" alt="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />](https://Www.wikipedia.com)
@@ -60,6 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielyanghansen&bg_color=30,0be059,14bacc&title_color=fff&text_color=fff)
 
