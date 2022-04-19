@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Eik's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielyanghansen&count_private=true&hide=stars&theme=gruvbox&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyanghansen&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
