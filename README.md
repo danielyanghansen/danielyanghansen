@@ -1,8 +1,12 @@
 ### Hi there 👋
 I am Daniel Yang Hansen (he/him): 
 - 🎓3rd year Computer Science at NTNU, Trondheim
-- 💼Former summer intern at:
-  - Norsk Helsenett
+- 💼Formerly employed as:
+  - Summer Intern at Norsk Helsenett
+  - Database Architect at DNV GL
+  
+λ I'm a big fan of functional programming 
+
 
  ## 🚀 Technologies I've worked with:
 
