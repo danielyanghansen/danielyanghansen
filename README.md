@@ -64,3 +64,6 @@ Here are some ideas to get you started:
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielyanghansen&bg_color=30,0be059,14bacc&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyanghansen&bg_color=30,0be059,14bacc&title_color=fff&text_color=fff&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+
+## Holopins
+[![@danielyanghansen's Holopin board](https://holopin.io/api/user/board?user=danielyanghansen)](https://holopin.io/@danielyanghansen)
