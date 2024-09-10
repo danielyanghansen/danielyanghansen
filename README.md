@@ -72,6 +72,6 @@ Here are some ideas to get you started:
 -->
 ## Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielyanghansen&bg_color=30,0be059,14bacc&title_color=fff&text_color=fff)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielyanghansen&bg_color=30,0be059,14bacc&title_color=fff&text_color=fff&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyanghansen&bg_color=30,0be059,14bacc&title_color=fff&text_color=fff&layout=compact&card_width=450&exclude_repo=Sportradar-Event-Bonanza)](https://github.com/anuraghazra/github-readme-stats)
