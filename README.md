@@ -2,10 +2,10 @@
 I am Daniel Yang Hansen (he/him): 
 - 🎓5th year Computer Science at NTNU, Trondheim
 - 💼Formerly employed as:
-  - Summer Intern at Arm
-  - Summer Intern at Sportradar
-  - Summer Intern at OmegaPoint Norge
-  - Summer Intern at Norsk Helsenett
+  - Summer Intern at Arm - GPU Software Developer
+  - Summer Intern at Sportradar - Software Developer
+  - Summer Intern at OmegaPoint Norge - Software Consulatant
+  - Summer Intern at Norsk Helsenett - Software Developer
   - Database Architect at DNV GL
   
 λ I'm a big fan of functional programming 
