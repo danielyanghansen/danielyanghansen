@@ -8,8 +8,6 @@ I am Daniel Yang Hansen (he/him):
   - Summer Intern at Norsk Helsenett - Software Developer
   - Database Architect at DNV GL
   
-λ I'm a big fan of functional programming 
-
 
 ## Stats
 
