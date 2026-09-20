@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Daniel Yang Hansen (he/him): 
-- 🎓5th year Computer Science at NTNU, Trondheim
+-  M.Sc in Computer Science from the Norwegian University of Science and Technology (NTNU)
+  - Thesis focused on HPC and Performance Modeling, simulating physics based problems with Multi-GPU systems.
+- Currently based in Taipei, Taiwan
 - 💼Formerly employed as:
   - Summer Intern at Arm - GPU Software Developer
   - Summer Intern at Sportradar - Software Developer
